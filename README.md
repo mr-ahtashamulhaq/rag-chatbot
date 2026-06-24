@@ -1,5 +1,7 @@
 # RAG Chatbot
 
+**🔗 Live Demo: [https://rag-chatbot-six-silk.vercel.app](https://rag-chatbot-six-silk.vercel.app)**
+
 A simple **Retrieval-Augmented Generation (RAG)** chatbot.  
 Upload a document → Ask questions → Get answers grounded in your document.
 
